@@ -24,5 +24,5 @@ This project predicts sleep disorders such as Sleep Apnea using machine learning
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sleep-disorder-prediction.git
+   git clone https://github.com/sprpranav/sleep-disorder-prediction.git
    
